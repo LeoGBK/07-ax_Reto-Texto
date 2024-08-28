@@ -29,6 +29,11 @@ p {
   padding-bottom: 2%;
 }
 
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
 footer {
   text-transform: capitalize;
   background-color: black;
