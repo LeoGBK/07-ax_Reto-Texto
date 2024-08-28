@@ -11,7 +11,7 @@ body {
 }
 
 .titulo {
-  font-size: xx-large;
+  font-size: 170%;
 }
 
 h1,
@@ -20,7 +20,7 @@ h2 {
 }
 
 h2 {
-    font-style: italic;
+  font-style: italic;
 }
 
 h2,
@@ -30,8 +30,8 @@ p {
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif;
-    text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
 }
 
 footer {
