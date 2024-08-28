@@ -10,6 +10,10 @@ body {
   padding-bottom: 5%;
 }
 
+.titulo {
+    font-size: xx-large;
+}
+
 h1,
 h2 {
   font-weight: bold;
