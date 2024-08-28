@@ -1,7 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .cabecera {
-    background-color: hsl(0, 70%, 32%);
-    color: white;
-    text-align: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
+  background-color: hsl(0, 70%, 32%);
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+h1,
+h2 {
+  font-weight: bold;
 }
